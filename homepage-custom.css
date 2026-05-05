@@ -6,7 +6,7 @@
    ----------
    1. Upload your image to a public URL (GitHub Pages recommended —
       see README for setup instructions).
-   2. Replace https://leeeccles.github.io/building-background/Rectangle-54-e1706101253302.png below with your image's public URL.
+   2. Replace https://leeeccles.github.io/building-background/shutterstock_1456864439-scaled.jpg below with your image's public URL.
    3. Paste the entire file into 360Learning:
         Settings → Branding → Group's Custom CSS
    4. Click outside the field to save, then hard-refresh:
@@ -85,7 +85,7 @@
   height: 100% !important;
 
   /* ↓↓↓  REPLACE THIS URL WITH YOUR IMAGE  ↓↓↓ */
-  background-image: url('https://leeeccles.github.io/building-background/Rectangle-54-e1706101253302.png') !important;
+  background-image: url('https://leeeccles.github.io/building-background/shutterstock_1456864439-scaled.jpg') !important;
   /* ↑↑↑  REPLACE THIS URL WITH YOUR IMAGE  ↑↑↑ */
 
   background-size: 75% auto !important;
